@@ -1,0 +1,19 @@
+****************************************
+*               Welcome                *
+*                  to                  *
+*            KaeseKaestchen            *
+****************************************
+* Please select game mode!             *
+                                       *
+* To play Human vs. Human enter "h"    *
+* To play Human vs. Computer enter "c" *
+*                                      *
+****************************************
+*                                      *
+* For help or additional information   *
+* enter "?"                            *
+*                                      *
+****************************************
+|            YOUR SELECTION            |
+V                                      V
+

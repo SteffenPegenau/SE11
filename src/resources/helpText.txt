@@ -1,0 +1,40 @@
+*************************************************
+*               GAME INSTRUCTIONS               *
+*************************************************
+
+I What is Kaesekaestchen?
+Kaesekaestchen is a strategy game
+
+II Goal
+The goal of the game is to conquer more boxes
+than your contrary.
+
+III How to conquer a box?
+You can conquer a box by placing
+walls on marked positions.
+
+To place a wall enter the number of
+the marked position.
+
+If a box is conquered it looks like e. g. 
+  *   -   *   2   *   3   * 
+  |   p1  |       6       7
+  *   -   *   9   *  10   * 
+ 11      12      13      14
+  *  15   *  16   *  17   * 
+ 18      19      20      21
+  *  22   *  23   *  24   * 
+  The box is marked with the number of the player.
+  In this case p1
+  
+  But be careful. If you have conquered a box
+  you have to place another wall
+  
+IV Special Rules
+If a player has conquered a box
+he has to place another wall.
+
+*************************************************
+* enter "b" to go back to start screen          *
+*************************************************
+
